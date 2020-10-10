@@ -1,3 +1,11 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+"""
+@author:Scdh
+@file:#1 两数之和.py
+@time:2020/10/10
+"""
+
 class Solution:
     """
     主要思路就是用target减去列表中的每一个元素，查看其差值是否在剩余的列表中，如果在则获取下标即可
