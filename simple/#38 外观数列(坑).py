@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 """
 @author:Scdh
-@file:#38 外观数列.py
+@file:#38 外观数列(坑).py
 @time:2020/10/20
 """
 
