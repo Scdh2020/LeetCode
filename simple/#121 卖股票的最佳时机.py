@@ -65,15 +65,10 @@ class Solution:
         return maxprofit
 
 
-
-
-
-
-
-
 if __name__ == '__main__':
     a = Solution()
     print(a.maxProfit([7,1,5,3,6,1]))
     print(a.maxProfit([2,1,2,1,0,1,2]))
     print(a.maxProfit2([7, 1, 5, 3, 6, 1]))
     print(a.maxProfit2([2,1,2,1,0,1,2]))
+    print(a.maxProfit2([1,2,3,4,5]))
